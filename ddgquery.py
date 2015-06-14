@@ -1,3 +1,5 @@
+#! /usr/bin/env python
+
 import os, time
 # use python3
 while True:
